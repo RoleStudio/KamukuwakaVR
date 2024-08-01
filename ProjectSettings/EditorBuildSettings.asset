@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start_UNESCO.unity
+    guid: cb408e06d17277849b46dfe07da62257
+  - enabled: 1
+    path: Assets/Scenes/KapisalapiScene.unity
+    guid: f201426dbcf67b7478998d39541cd6a1
+  - enabled: 0
+    path: Assets/Scenes/CustomControllersScene.unity
+    guid: 9050aaf46deb4554fa3fee129d81eefa
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 67015aad79c7f594ebf546471c6f12a8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d56bc904ee3c251498d2aa405589b1ff, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 582794a4c4138e9478e5ceb7fa9d07d2, type: 2}
